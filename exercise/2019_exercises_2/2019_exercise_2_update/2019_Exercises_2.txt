@@ -1,0 +1,30 @@
+練習題 2
+
+1. (2019-10-31) 參照 s2_str_7_lineCount.py
+
+   (1) 找出 (a) 字母最長的 5個單字 (b) 最常出現的5個單字
+   (2) 去除 stopwords 之後， 上述結果變如何?
+   (3) 把字串改成 從檔案讀入。
+
+"""
+stopwords = ["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours", "yourself", "yourselves", "he", "him", "his", "himself", "she", "her", "hers", "herself", "it", "its", "itself", "they", "them", "their", "theirs", "themselves", "what", "which", "who", "whom", "this", "that", "these", "those", "am", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "having", "do", "does", "did", "doing", "a", "an", "the", "and", "but", "if", "or", "because", "as", "until", "while", "of", "at", "by", "for", "with", "about", "against", "between", "into", "through", "during", "before", "after", "above", "below", "to", "from", "up", "down", "in", "out", "on", "off", "over", "under", "again", "further", "then", "once", "here", "there", "when", "where", "why", "how", "all", "any", "both", "each", "few", "more", "most", "other", "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"]
+"""   
+   
+2. (2019-11-14) 把在 data目錄下的 txt 與 csv 檔案的內容合併成一個新檔。
+
+3. (2019-11-21) 本學期開課學分數在檔案 data\credits.txt, 同學們的修課成績在檔案 data\grades.xlsx
+ (你可以先將 xlsx 轉成 csv 檔， 以一般檔案讀取方法讀取內容)
+
+  (1) 先以檔案讀取方式讀取開課學分數以及同學們的修課成績，
+   再計算同學的修課平均成績
+   
+  (2) 將同學的平均成績 寫入data\grades_{程式執行日期}.xlsx 
+   （例如 grades_2019-11-21.xlsx)的 "平均成績" 分頁。
+  
+  (3) 畫出成績分佈長條圖
+
+4. (2019-11-28) 列出在目前工作資料夾下，在 48 小時內有改變過的子資料夾以及檔案。
+  沒有更動的子資料夾，只列出 子資料夾名稱
+    
+
+5. (2019-12-05) 第二次上機考

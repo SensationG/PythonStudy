@@ -1,0 +1,2 @@
+Šifriranje e-pošte pri pošiljanju
+Protokol S/MIME zagotavlja podporo za izboljšano šifriranje pri pošiljanju in samodejno šifrira odhodna e-poštna sporoèila, èe je to mogoèe.
