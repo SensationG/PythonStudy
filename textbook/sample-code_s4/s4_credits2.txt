@@ -1,0 +1,5 @@
+Discrete Math: 3
+Calculus:   3
+Python: 3
+English: 2
+历史: 2
