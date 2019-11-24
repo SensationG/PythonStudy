@@ -7,10 +7,12 @@ from openpyxl.chart import (
 )
 from openpyxl.chart.axis import DateAxis
 
+#-=-------------------绘制3D图包括-设定x轴数据源--------------------------
+
 wb = Workbook()
 ws = wb.active
 
-rows = [
+rows = [  # 二维list 可以直接插入excel
     ['Date', 'Batch 1', 'Batch 2', 'Batch 3'],
     [date(2015,9, 1), 40, 30, 25],
     [date(2015,9, 2), 40, 25, 30],
@@ -19,6 +21,7 @@ rows = [
     [date(2015,9, 5), 25, 35, 30],
     [date(2015,9, 6), 20, 40, 35],
 ]
+print(rows[3][3])
 
 for row in rows:
     ws.append(row)
@@ -35,7 +38,7 @@ data = Reference(ws, min_col=2, min_row=1, max_col=4, max_row=7)
 labels = Reference(ws, min_col=1, min_row=2, max_col=1, max_row=7)
 
 c1.add_data(data, titles_from_data=True)
-c1.set_categories(labels)
+c1.set_categories(labels) #设置x轴数据源
 
 ws.add_chart(c1, "F2")
 

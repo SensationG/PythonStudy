@@ -45,5 +45,7 @@ for folder, subfolder, filenames in os.walk('.'):
         mtime =  datetime.fromtimestamp(mtime_ts)
         if timesup(mtime):
             print('48小时内修改过的文件夹：',fold,mtime)
+        else:
+            print('未修改过的文件夹',fold,mtime)
     print()
 

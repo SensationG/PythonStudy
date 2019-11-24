@@ -20,9 +20,9 @@ for row in range(2, sheet.max_row + 1):
     county = sheet['C' + str(row)].value
     pop    = sheet['D' + str(row)].value
 
-    # Make sure the key for this state exists.新增 state
+    # Make sure the key for this state exists.数据分组
     countyData.setdefault(state, {})
-    # Make sure the key for this county in this state exists.新增 county
+    # Make sure the key for this county in this state exists.数据再次分组
     countyData[state].setdefault(county, {'tracts': 0, 'pop': 0})
 
     # Each row represents one census tract, so increment by one.
