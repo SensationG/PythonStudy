@@ -14,5 +14,5 @@ class Solution:
         return s == ''
     
 s=Solution()
-a=s.isValid('{(})')
+a=s.isValid('({{[]}}())')
 print(a)
