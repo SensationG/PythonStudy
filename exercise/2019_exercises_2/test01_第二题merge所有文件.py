@@ -18,8 +18,8 @@ def predict_encoding(file_path): ## 自动检测字符集编码
   return encoding
 
 
-filepath = os.path.abspath('credits.txt')#文件所在的路径 
-dirpath = os.path.dirname(filepath) #文件所在的目录（不包括文件本身）
+#filepath = os.path.abspath('credits.txt')
+dirpath = os.getcwd() #文件所在的路径（不包括文件本身）
 datapath = os.path.join(dirpath,'data') #该文件下的data文件夹
 outpath = os.path.join(datapath,'review','merged.txt')#合并后存储的文件路径
 

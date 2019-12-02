@@ -25,27 +25,23 @@ def toplen_word(l_word):
         print(k,v)
 
 def topcount_word(c_word):
-    words=[] #记录不重复的所有单词
+    words={} #记录不重复的所有单词 /统计每个单词重复次数
     for n in c_word:
         if n not in words:
-            words.append(n)
-    # 统计每个单词重复次数
-    word_repeat={}
-    for n in words:
-        count=0
-        for i in c_word:
-            if i==n:
-                count+=1
-        word_repeat[n]=count 
-    word_repeat=sorted(word_repeat.items(), key=lambda x: x[1], reverse=True)
+            words[n]=1
+        else:
+            words[n]+=1
+    
+    #print(words)
+    words=sorted(words.items(), key=lambda x: x[1], reverse=True)
     print()
     print('最常出現的5個單字：')
-    for k,v in word_repeat[:5]:
+    for k,v in words[:5]:
         print(k,v)
         
 def open_file(): #读取文本文件
    a=''
-   with open('s4_read.txt', 'r', encoding='utf=8') as r:
+   with open('s4_read.txt', 'r', encoding='utf-8') as r:
     for line in r:      
         a+=line
    return a
@@ -58,7 +54,7 @@ def main():
         i=i.replace(',','')
         i=i.replace('.','')
         n_word.append(i)
-    #print(n_word)
+    print(n_word)
     print('--------第一题---------')
     toplen_word(n_word)
     topcount_word(n_word)

@@ -13,9 +13,9 @@ with open(in_filename , 'r',encoding='UTF-8') as f:
     for line in f: #一次读一行
         print(line)
         line_cnt += 1
-        words = line.strip('\n').split(' ') #分隔字符串
+        words = line.strip('\n').split(' ') ##分离出每个单词
         print(words)
-        word_cnt += len(words) #累加单词数量（即words长度）
+        word_cnt += len(words)  #累加单词的个数（计算一共有几个单词）
         #累计单个字（英语单字）数量
         char_cnt += sum([len(x) for x in words]) #把每个单词才出来，用len统计每个单词的长度，并用sum累加
         

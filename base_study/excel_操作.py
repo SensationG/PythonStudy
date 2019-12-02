@@ -14,6 +14,7 @@ import openpyxl
 wb = openpyxl.Workbook()
 # 2 新建分页
 sheet = wb.active
+
 # 3 使用二维list/配合append写入数据 
 rows = [
     [88, 46, '中文'],
@@ -25,12 +26,14 @@ rows = [
 ]
 for row in rows:
     sheet.append(row) #每次写入一行
-# 4 使用value 遍历赋值写入list中的数据（添加数据标题为例）
+    
+# 4 使用value 遍历赋值写入 **list 中的数据（添加数据标题为例）
 start_column=1
 labels = ['grade range','count']   #写入标题（标准写法）
 for i, label in enumerate(labels):
      sheet.cell(row=1, column=start_column+i, value=label)    
-# 5 使用value 遍历赋值字典中的数据(key+value)
+     
+# 5 使用value 遍历写入 **字典 中的数据(key+value)
 g_dict={'t1':21,'t2':78,'t3':311,'t4':213,'t5':213}
 for i,v in enumerate(g_dict.items()):
      for j,kv in enumerate(v):
@@ -95,9 +98,29 @@ for row in sheet.iter_rows(min_row=1,min_col=1,max_row=sheet.max_row,max_col=she
 '''
 绘图
 '''   
+from openpyxl.chart import (
+    Reference,
+    Series,
+    BarChart
+)
+wb = openpyxl.load_workbook('example.xlsx')
+sheet = wb.active
+# 1 绘制直方图 x轴数据+y轴数据
+data = Reference(sheet, min_col=2, min_row=1, max_col=2, max_row=5) #y轴数据
+categs = Reference(sheet, min_col=1, min_row=2, max_col=1,max_row=5) #x轴数据
 
+chart = BarChart() #直方图类型
+chart.add_data(data, titles_from_data=True) #添加y轴数据(数据源包含标题 所以设true)
+chart.set_categories(categs) #添加x轴数据
 
+chart.varyColors = True #彩色
+chart.title = "Olympic Gold medals in London"
+chart.x_axis.title = 'Rank'    #x轴名称
+chart.y_axis.title = 'Value'   #y轴名称
+sheet.add_chart(chart, "E2")  #存放位置
+chart.legend = None #不需要图例
 
+wb.save("example.xlsx")
 
 
 
