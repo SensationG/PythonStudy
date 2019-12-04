@@ -8,7 +8,7 @@ wb = openpyxl.load_workbook('produceSales.xlsx')
  
 sheet = wb.active
  
-sheet.freeze_panes = 'A2' # Freeze row 1 冻结（范围）左上方单元格
+sheet.freeze_panes = 'B2' # Freeze row 1 冻结（范围）左上方单元格
 #在横向滑动excel时就会锁定单元格 
 
 #sheet.freeze_panes = 'C2' # Freeze Row 1 and columns A and B 

@@ -21,7 +21,7 @@ wb.save('writeFormula.xlsx')
 
 print(sh['A3'].value)
 
-wbDataOnly = openpyxl.load_workbook('writeFormula.xlsx', data_only=Ture)#想要执行excel公式要设为True
+wbDataOnly = openpyxl.load_workbook('writeFormula.xlsx', data_only=False)#想要执行excel公式要设为True
 
 sh1 = wbDataOnly.active
 

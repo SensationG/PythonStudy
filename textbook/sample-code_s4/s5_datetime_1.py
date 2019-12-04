@@ -22,7 +22,7 @@ dt_plus2 = dt + twodays #时间加减
 print('dt_plus2 datetime:', dt_plus2)
 print('dt_plus2 is later than now(): ', dt_plus2 > dt)
 
-print() #时间转为字符串
+print() #时间转为字符串，设置输出格式
 print("strftime(): Convert datetime object into strings....")
 # Convert datetime object into strings
 print(dt.strftime('%Y/%m/%d %H:%M:%S'))  # note that stfrtime doesn't begin with datetime.dateime
@@ -33,13 +33,13 @@ print() #字符串转为时间
 print("strptime():  Convert strings into datetime objects....")
 # Convert strings into datetime objects
 dt_object = datetime.strptime('March 4, 2017', '%B %d, %Y')
-print(dt_object)
+print(dt_object) #2017-03-04 00:00:00
 
 # print as specific fromat :datatime转为特殊格式字串
-print(dt_object.strftime('%B %d, %Y')) #type:str
+print(dt_object.strftime('%B %d, %Y')) #type:str  March 04, 2017
 
 # print in default format: xxxx-xx-xx
-print('默认日期格式：',dt_object.date())
+print('默认日期格式：',dt_object.date()) # 2017-03-04
 
 # convert unix timestamp string to readable date.
 print()
@@ -51,16 +51,16 @@ ts = datetime.now().timestamp() #从1970到现在的时间
 print("local timestamp in secs: ", ts)
 
 ## convert timestamp to datetime object
-dt4 = datetime.fromtimestamp(ts)
+dt4 = datetime.fromtimestamp(ts) #1575375241.094724
 
 # print in default format
-print(dt4.isoformat())
+print('isoformat:',dt4.isoformat()) #2019-12-03T20:14:01.094724
 
 # print in specific format
-print(dt4.strftime('%Y-%m-%d %H:%M:%S'))
+print(dt4.strftime('%Y-%m-%d %H:%M:%S'))  #2019-12-03 20:14:01
 
 ## convert timestamp to datetime object with specific timezone
-from dateutil.tz import gettz, tzutc, tzlocal #转换时区
+from dateutil.tz import gettz, tzutc, tzlocal #转换时区 将当前时间转为不同时区时间
 
 fmt = '%Y-%m-%d %H:%M:%S %z'
 tpe_tz = gettz('Asia/Taipei')

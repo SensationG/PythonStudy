@@ -33,8 +33,8 @@ print("6.路径分割os.path.split() ...") #切割路径 分为 路径+档名
 print("dirname", "=>", dirname) 
 print("filename", "=>",filename)
 print()
-
-# os.path.dirname(), os.path.basename() 使用方法获取 路径+文件名
+#*****************************
+# os.path.dirname(), os.path.basename() 使用方法获取 上级路径+文件名
 print("os.path.dirname(), os.path.basename()...")
 print ("dirname", "=>", os.path.dirname(pathname))
 print ("basename", "=>", os.path.basename(pathname))

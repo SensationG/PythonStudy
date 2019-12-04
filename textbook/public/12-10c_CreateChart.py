@@ -23,7 +23,7 @@ for i in range(1, 11):  #方式二
     sheet['A' + str(i)] = i
 
 # 1 设定要绘图数据 这里只设置y轴的数据
-    #只设置了y轴的数据时，x轴默认为行名
+    #只设置了y轴的数据时，x轴默认从1开始计数
 data = Reference(sheet, min_col=1, min_row=1, max_col=1, max_row=10)
 #labels = Reference(ws, min_col=1, min_row=2, max_col=1, max_row=7)添加x轴数据
 

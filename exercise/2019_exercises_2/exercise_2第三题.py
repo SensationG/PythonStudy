@@ -7,16 +7,13 @@ Created on Thu Nov 21 09:18:34 2019
 
 #exercise2-3
 import os
-import pandas as pd
 from datetime import datetime, timedelta
 import openpyxl
 from openpyxl.chart import BarChart, Reference
 
 #读取修课成绩
-df_g = pd.read_excel("data/grades.xlsx")
-print(df_g.head(3))
-print(df_g.shape)
-
+wb = openpyxl.load_workbook("data/grades.xlsx")
+sheet = wb.active
 #读取开课学分数
 courages={} 
 with open('data/credits.txt', 'r', encoding='utf=8') as r:
@@ -29,13 +26,12 @@ with open('data/credits.txt', 'r', encoding='utf=8') as r:
 # 1 计算修课平均成绩
 #print(df_g.iloc[0][2])#取dataframe的某行某列
 s_avg={}
-for i in range(len(df_g)):  #遍历df行列
+for i,row in enumerate(sheet.iter_rows(min_row=2,min_col=2,max_row=sheet.max_row,max_col=sheet.max_column)):
     sum=0
-    for j in range(1,df_g.shape[1]):
-        sum+=df_g.iloc[i][j]
-    #print(sum)
-    avg=sum/5
-    s_avg[df_g.iloc[i][0]]=avg
+    for cell in row: #每行的每个数据
+        sum+=cell.value
+    avg=sum/(sheet.max_column-1)
+    s_avg[sheet.cell(row=i+2,column=1).value]=avg 
 print(s_avg)
 
 #创建excel/日期

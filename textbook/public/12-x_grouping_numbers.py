@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """ grouping a list of numbers by range """
 #--------------字典中的---数据分组----算成绩用----------------
-a = [x for x in range(10)]
+a = [x for x in range(100)]
 
 # Create a group dict for saving the result
 g_dict = {}
 
 # Specify the range 5个一组
-r = 5 
+r = 10 
 
 for e in a:
     q = e//r # quotient 整除

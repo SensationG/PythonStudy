@@ -2,7 +2,7 @@
 """
 Find files modified within n hours from now
 """
-
+#------------------需要获取子资料夹里面的文件的内容 使用这种walk的方式
 import os
 from datetime import datetime, timedelta
 
@@ -21,12 +21,19 @@ def timesup(mtime):
     else:
         return False
 
+path = os.getcwd()
+path1= os.path.dirname(path) #改装，获取指定文件夹下的所有文件
+
+
+
 #folder：列出该路径下的目录 subfolder：列出所有文件夹名称 filenames：列出该路径下的所有文件名
-for folder, subfolder, filenames in os.walk('.'):
+for folder, subfolder, filenames in os.walk(path1): #os.walk('.') os.walk不但会检测当前目录 还会进文件夹检测里面的文件
+    
     #print("[folder] -> ", folder)
     
     #检测文件
     for file in filenames:
+
         #print(file, end='\t')
         # 取得檔案的修改時間, 單位：秒
         mtime_ts = os.stat(os.path.join(folder,file)).st_mtime
