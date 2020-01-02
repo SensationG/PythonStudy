@@ -1,0 +1,1122 @@
+1543995102762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.1itMCEDzjSH5"
+1543995105607	Marionette	INFO	Listening on port 5030
+1543995106032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3, line 8: ReferenceError: tc_concat_productids_pointvirg is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript error: https://www.decathlon.tw/zh/contacts, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts, line 8: ReferenceError: tc_concat_productids_pointvirg is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1543995129760	Marionette	INFO	Stopped listening on port 5030
+[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11108, C[Child 12196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+c, line 346
+[Child 12196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543995245250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.Zml03nxNe2Qh"
+1543995247789	Marionette	INFO	Listening on port 5211
+1543995248012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://static.adsafeprotected.com/main.17.4.161.js, line 109: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: Maximum retries reached
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4204, MediaPlayback #5] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Parent 7792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4204, MediaPlayback #8] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #7] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4204, MediaPlayback #6] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #8] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTraIPDL protocol error: Handler returned error code!
+ckDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #6] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #7] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #7] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #5] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 4204, MediaPlayback #5] WARNING: Decoder=1c50418d090 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+IPDL protocol error: Handler returned error code!
+J
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+avaScript error: https://z.moatads.com/bloombergprebidheader853620778109/yi.js line 38 > eval, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 7792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543998941593	Marionette	INFO	Stopped listening on port 5211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7100, Chrome_ChildT1545883091450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.lD0R6WdK4uOq"
+1545883168741	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.4sQARYZ7qvsQ"
+1545883169021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545883169021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545883169922	Marionette	INFO	Listening on port 57743
+1545883170383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3, line 8: ReferenceError: tc_concat_productids_pointvirg is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript error: https://www.decathlon.tw/zh/contacts, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts, line 8: ReferenceError: tc_concat_productids_pointvirg is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+[Parent 4092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1545883179331	Marionette	INFO	Stopped listening on port 57743
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2488, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545883228939	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.RHzNmvgxanEa"
+1545883229239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545883229240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545883230083	Marionette	INFO	Listening on port 57875
+1545883230567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3, line 8: ReferenceError: tc_concat_productids_pointvirg is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript error: https://www.decathlon.tw/zh/contacts, line 8: ReferenceError: tc_concat_productids_pointvirg is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-806332378, line 147: unreachable code after return statement
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1545883247730	Marionette	INFO	Stopped listening on port 57875
+[Child 8736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 346
+[Parent 2412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12752, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545883251474	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.MmYmEj8KsZVA"
+1545883251762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545883251762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545883252640	Marionette	INFO	Listening on port 58086
+1545883253111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10832, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10832, Chrome_ChildThread] WARN1545883254710	Marionette	INFO	Stopped listening on port 58086
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569682256010	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofile0Ehk3R"
+1569682257506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569682257506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569682257506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569682257506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569682259871	Marionette	INFO	Listening on port 7400
+1569682260218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 3688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13308[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10548, [Child 16580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16580console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569682342732	Marionette	INFO	Stopped listening on port 7400
+[GPU 17432, Chrome_Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+340523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569682342402	Marionette	INFO	Listening on port 7532
+1569682342546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569682363997	Marionette	INFO	Stopped listening on port 7532
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5084, Chrome_ChildThread] WAR[Parent 6256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4060, Chrome_ChildThr[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 11569682537541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofile08VrLf"
+1569682538075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569682538075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569682538075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569682538075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569682539829	Marionette	INFO	Listening on port 7797
+1569682540233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 17968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Child 11884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11884, Chrome_ChildThread] WARNIN1569683331601	Marionette	INFO	Stopped listening on port 7797
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+16904, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569682669202	Marionette	INFO	Listening on port 7948
+1569682669255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Child 12980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12980, Chrome_[Child 12684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12684, Chrome1569683330624	Marionette	INFO	Stopped listening on port 7948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9624, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ns.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569683209325	Marionette	INFO	Listening on port 8239
+1569683209608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11684, Chrome_ChildThread] WARN1569689509196	Marionette	INFO	Stopped listening on port 8239
+d extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569683349791	Marionette	INFO	Listening on port 8517
+1569683350022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 6256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 6256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15668, Chrome_ChildThread] WARNING: pip[Parent 6256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1569689508316	Marionette	INFO	Stopped listening on port 8517
+	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569683869158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569683871171	Marionette	INFO	Listening on port 8973
+1569683871280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+1569683911084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13492, Chrome[Child 12084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12084, Chrome_ChildThconsole.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569689507414	Marionette	INFO	Stopped listening on port 8973
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ing on port 9120
+1569683913764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 19416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569683935334	Marionette	INFO	Stopped listening on port 9120
+[Child 18424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18424, Chrome_C[Parent 19416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2752, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 2752, Chrome_ChildThread] WAR[GPU 19044
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569683960368	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofile63TYwu"
+1569683960882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569683960882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569683960882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569683960882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569683962710	Marionette	INFO	Listening on port 9359
+1569683963063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 20436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19508, Chrome_ChildThread] WARNING: pipe 1569683982315	Marionette	INFO	Stopped listening on port 9359
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+19924, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569684003962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileBBpGLW"
+1569684004496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569684004496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569684004496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569684004496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569684006188	Marionette	INFO	Listening on port 9551
+1569684006645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569684028924	Marionette	INFO	Stopped listening on port 9551
+[Child 19216, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 19216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19216, Chrome_ChildThread] WARNING:[Parent 20340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20332, Chrome_Chi[GPU 19560, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569684074661	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileFEExhY"
+1569684075207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569684075207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569684075208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569684075208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569684076943	Marionette	INFO	Listening on port 9808
+1569684077367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 6460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11840, Chrome_ChildThr[Child 13516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569689506575	Marionette	INFO	Stopped listening on port 9808
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569684193637	Marionette	INFO	Listening on port 10118
+1569684193853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 20160, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20160, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20160, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19820, Chrome[Parent 20160, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12420, Chrome_Ch1569689505849	Marionette	INFO	Stopped listening on port 10118
+Marionette	INFO	Listening on port 10381
+1569684286513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://assetscdn-wchat.freshchat.com/static/assets/vendor-f60d16d1e9af26c217ee9fb6f2cd20d7.js, line 938: Error: The adapter operation was aborted
+JavaScript error: https://assetscdn-wchat.freshchat.com/static/assets/vendor-f60d16d1e9af26c217ee9fb6f2cd20d7.js, line 938: Error: The adapter operation was aborted
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 21436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20860console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569684720384	Marionette	INFO	Stopped listening on port 10381
+[GPU 19192
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emetry
+1569684517570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569684517570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569684519721	Marionette	INFO	Listening on port 10753
+1569684520221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569684544239	Marionette	INFO	Stopped listening on port 10753
+[Parent 21808, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18652, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 18652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18652, Chrome_ChildThre[Child 440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 440, Chrome_ChildThread] W[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 2215
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569684617527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofilejMMl2B"
+1569684618009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569684618009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569684618009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569684618009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569684619684	Marionette	INFO	Listening on port 11035
+1569684620148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 22048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 22048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569684641642	Marionette	INFO	Stopped listening on port 11035
+[Parent 22048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21796, Chrome_ChildThrea[Parent 22048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21860, Chr[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569684670591	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileCdtt64"
+1569684671074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569684671074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569684671075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569684671075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569684672831	Marionette	INFO	Listening on port 11290
+1569684673224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 21688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569684698877	Marionette	INFO	Stopped listening on port 11290
+[Child 21732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21732, Chrom[Child 21404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21404, Chrome_ChildThread] WARN[Parent 21688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16504, Chrome_Chil[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 2284, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569685414121	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileFK8eBi"
+1569685414601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569685414601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569685414601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569685414601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569685416482	Marionette	INFO	Listening on port 11771
+1569685416748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 21952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 21952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Parent 21952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14200, C[Parent 21952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14172, Chrome1569689504691	Marionette	INFO	Stopped listening on port 11771
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+N	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569685653119	Marionette	INFO	Listening on port 12050
+1569685653389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 4416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22380, Chrome_Chil1569689504402	Marionette	INFO	Stopped listening on port 12050
+[GPU 21792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+task_1568726031/build/src/ipc
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g manifest: Invalid extension permission: resource://pdf.js/
+1569685903140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569685905087	Marionette	INFO	Listening on port 12405
+1569685905275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 21860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 21860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/[Chiilpdc /2c1h0r8o8mium/s,r c/chromCehro/me_Chciolmmon/ipc_cdhTahnrneeald_win.]c c, linWeA R341N
+ING: pip[Child 3596e error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21088, Chrome_Ch[Parent 21860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18708, Chrome_Chil1569685930414	Marionette	INFO	Stopped listening on port 12405
+[GPU 1179
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569685964194	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileuaVDwL"
+1569685964736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569685964736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569685964736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569685964737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569685966596	Marionette	INFO	Listening on port 12567
+1569685966827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 14120, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22828, Chrome_ChildThread] WARNING: pipe error: [Child 10468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10468, 1569689504439	Marionette	INFO	Stopped listening on port 12567
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1569686016464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569686018385	Marionette	INFO	Listening on port 12702
+1569686018566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 22836, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 22836, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 22836, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: uncaught exception: Object
+[Child 19192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19192, Chrome_ChildThread] WARNING: pipe error: 109: [Parent 22836, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20736, Chrome_[Child 4console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569689502424	Marionette	INFO	Stopped listening on port 12702
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569686210224	Marionette	INFO	Listening on port 12968
+1569686210243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 12572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 12572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19244, Chrome_ChildThread] WARNINconsole.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569689501896	Marionette	INFO	Stopped listening on port 12968
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+RN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569686316995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569686318988	Marionette	INFO	Listening on port 13222
+1569686319153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 23040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569686346591	Marionette	INFO	Stopped listening on port 13222
+[Parent 23040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9312, Chrome_Child[Parent 23040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17512, Chrome_ChildThread] WARNING[GPU 10212, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569688126357	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileGrtfD4"
+1569688126937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569688126937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569688126938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569688126938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569688128953	Marionette	INFO	Listening on port 13498
+1569688129056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 17836, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/bconsole.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569689501574	Marionette	INFO	Stopped listening on port 13498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569688191494	Marionette	INFO	Listening on port 13624
+1569688191718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+1569688229918	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "[Parent 22016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24512, Chrome_ChildThread] WARNI[Child 25184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25184, 1569689501567	Marionette	INFO	Stopped listening on port 13624
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+la.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569688230443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569688232466	Marionette	INFO	Listening on port 13763
+1569688232578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 7892, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7892, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25652, Ch[Child 25632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25632, Chro1569689499603	Marionette	INFO	Stopped listening on port 13763
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569688316938	Marionette	INFO	Listening on port 13894
+1569688317135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+[Parent 26144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 26144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 26144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 26144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11800, C[Child 26468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26468,console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1569688475665	Marionette	INFO	Stopped listening on port 13894
+[GPU 3384, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ne 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569688432419	Marionette	INFO	Stopped listening on port 14019
+[Parent 26592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27568, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 26592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27560, Chrome_Ch[GPU 25812, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569753880371	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileku50gc"
+1569753881221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569753881221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569753881221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569753881221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569753884692	Marionette	INFO	Listening on port 6767
+1569753885120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://dz2cdn2.dzone.com/storage/pub/12466815-combined.js, line 913: unreachable code after return statement
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+[Child 23924, MediaDecoderStateMachine #1] WARNING: Decoder=1df79e40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1568726031/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+1569754235847	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofile2SQhQn"
+1569754236650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569754236651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569754236651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569754236651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569754240342	Marionette	INFO	Listening on port 7230
+1569754240583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Parent 12796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://assets.bwbx.io/s3/bbgmkts/assets/quote-d63e446ffb69e01b3a8a.js, line 43: TypeError: this.__googletag.cmd is undefined
+JavaScript error: https://assets.bwbx.io/s3/bbgmkts/assets/quote-d63e446ffb69e01b3a8a.js, line 43: TypeError: this.__googletag.cmd is undefined
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://widgets.bankrate.com/js/bundle.min.js?rel=9754f27da2, line 42: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1569820154801	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofiley6u34B"
+1569820155331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569820155331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569820155331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569820155331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569820157087	Marionette	INFO	Listening on port 5121
+1569820157470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1063 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 19880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1569820181866	Marionette	INFO	Stopped listening on port 5121
+[Parent 19880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568726031/b[GPU 2528, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1570463655015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofile7f47w4"
+1570463655729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463655729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463655729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463655729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570463658091	Marionette	INFO	Listening on port 5253
+1570463658185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1062 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1062 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://media.decathlon.tw/media/po_compressor/10/js/e3c54b231616be6e2522e4a489b0cd3d.js?ver=20191007, line 531: ReferenceError: Ttimer is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1570463681875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1570463685089	Marionette	INFO	Stopped listening on port 5253
+[Child 18016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569973205/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18016, Chrome_Child[Child 17548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569973205/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4772
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570463835713	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofilexVf0R7"
+1570463836234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463836234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463836234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463836234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570463838489	Marionette	INFO	Listening on port 5514
+1570463838916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1062 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1062 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1570463864240	Marionette	INFO	Stopped listening on port 5514
+[Parent 3316, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1569973205/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1569973205/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4228, Chrome_ChildThr[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1020
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571668044435	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileo6Dees"
+1571668044972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571668044972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571668044973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571668044973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571668046922	Marionette	INFO	Listening on port 8630
+1571668047093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1068 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1068 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570643041/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1571668071761	Marionette	INFO	Stopped listening on port 8630
+[Child 7544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570643041/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7[Parent 9324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570643041/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570643041/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4948, Chrome_ChildT[Child 11768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570643041/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11768,[GPU 7408, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1575036672532	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cjluh\\AppData\\Local\\Temp\\rust_mozprofileyGAAUz"
+1575036674878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575036674878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575036674879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575036674879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1575036678230	Marionette	INFO	Listening on port 13017
+1575036678411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1065 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1065 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+[Parent 8972, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8972, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17068, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Child 17068, Chrome_ChildThread] WARNING: pipe error: 109: fil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e z:/task_1572402
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+546/build/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rc/ipc/c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hromium/src/ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e/commo
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+n/i
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pc_channel_win.cc,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1575036824214	Marionette	INFO	Stopped listening on port 13017
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 11576724013097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hhw\\AppData\\Local\\Temp\\rust_mozprofileUpv0Qq"
+1576724013922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576724013922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576724013922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576724013922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576724015716	Marionette	INFO	Listening on port 56038
+1576724015768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.decathlon.tw/zh/series/#s3 line 1074 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript error: https://decathlontw.api.useinsider.com/ins.js?id=10002606, line 146: ReferenceError: Notification is not defined
+JavaScript error: https://www.decathlon.tw/zh/contacts line 1074 > scriptElement, line 1: ReferenceError: remoteScript_y is not defined
+JavaScript warning: https://www.taipeiads.com/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.taipeiads.com/js/twitter/tweet.js, line 1: SyntaxError: expected expression, got '<'
+1576724036927	Marionette	INFO	Stopped listening on port 56038
+[Parent 23548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 20720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 23548, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10132[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Invalid port. Exiting...
+1577329760817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hhw\\AppData\\Local\\Temp\\rust_mozprofilebPl2WJ"
+1577329763126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577329763126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577329763127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577329763127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577329766696	Marionette	INFO	Listening on port 57097
+1577329767215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577329773087	Marionette	INFO	Stopped listening on port 57097
+[Parent 18444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 18444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17912, Chrome_ChildThread] WARNING: pipe error: 109: fi[Child 18168, Chromel_Ce zh:/task_1575282ildThread] WARNING: pipe error: 109: file z:/task_15759235/build/sr8c/ipc/c2hromium/src/chrome935/build/src/ipc/chromiu/common/ipc_channel_win.cc, line 341
+m/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18168, C[Parent 18444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2056[GPU 17
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577329956831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hhw\\AppData\\Local\\Temp\\rust_mozprofileV5U256"
+1577329957748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577329957748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577329957748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577329957748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577329960948	Marionette	INFO	Listening on port 57266
+1577329961123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577329967651	Marionette	INFO	Stopped listening on port 57266
+[Parent 24128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 24128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 24128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13284
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577330041821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hhw\\AppData\\Local\\Temp\\rust_mozprofileNG1jBz"
+1577330042786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577330042786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577330042787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577330042787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577330046053	Marionette	INFO	Listening on port 57356
+1577330046151	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18952, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/[Parent src/ipc/c14168hromium/src/chrome/common/ipc_channel_win.cc, line, Gecko_IOThread] WARNING: pipe error 502
+: 109: file z[:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 14168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 221577330132775	Marionette	INFO	Stopped listening on port 57356
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+S certificate errors will be ignored for this session
+[Parent 14300, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8564, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/co[Parent 14300, Gecko_Immon/ipc_channel_win.cc, line 502
+OThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/i[pCchild 85/64, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromiuchromium/src/chrmom/es/rcc/chrome/common/ipc_channel_win.cc, line 341
+ommon/ipc_channel_win.cc, line 3[41
+[Child 5332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14300, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 51577330131277	Marionette	INFO	Stopped listening on port 57437
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577330298713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hhw\\AppData\\Local\\Temp\\rust_mozprofileBTMe6E"
+1577330299560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577330299560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577330299560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577330299561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577330302778	Marionette	INFO	Listening on port 57578
+1577330302973	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/com[mPon/ipc_channel_win.acc, line 341
+rent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1577330348935	Marionette	INFO	Stopped listening on port 57578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577330418315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hhw\\AppData\\Local\\Temp\\rust_mozprofiletOJPyy"
+1577330419895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577330419895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577330419895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577330419895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577330423336	Marionette	INFO	Listening on port 57688
+1577330423710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577330431613	Marionette	INFO	Stopped listening on port 57688
+[Parent 17476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 170[Parent 17476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 17476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [GPU 1269
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

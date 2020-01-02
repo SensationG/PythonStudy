@@ -1,0 +1,7 @@
+Firefox() gecodriver: https://github.com/mozilla/geckodriver/releases
+
+https://openweathermap.org/api
+
+https://opendata.epa.gov.tw/ 權限登記
+
+https://opendata.cwb.gov.tw/ 取得授權碼

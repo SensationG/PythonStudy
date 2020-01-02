@@ -22,7 +22,9 @@ def timesup(mtime):
         return False
 
 path = os.getcwd()
+print(path)
 path1= os.path.dirname(path) #改装，获取指定文件夹下的所有文件
+print(path1)
 
 
 

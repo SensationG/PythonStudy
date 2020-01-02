@@ -1,0 +1,49 @@
+練習題 3
+
+1. (2019-12-12) 請抓取桃園市中壢區的 YouBike 場站資訊 （參考 11_web_scaping 教材： requests_7_json_ntpcUbike.py)
+
+  按當下可外借車輛數排序, 需要的欄位有 場站名稱，地址，目前車輛數，緯度，經度 
+
+桃園市 YouBikes JSON 下載API
+https://data.tycg.gov.tw/opendata/datalist/datasetMeta/download?id=5ca2bfc7-9ace-4719-88ae-4034b9a5a55c&rid=a1b4714b-3b75-4ff8-a8f2-cc377e4eaa0f
+
+欄位說明: iid：ItemId、 sv：場站狀態、 sd：啟用時間、 vtyp：版本別、 sno：場站代號、 sna：場站名稱、 sip：場站 IP、 tot：場站的總停車格、 sbi：場站的目前車輛數、 sarea：場站區域、 mday：資料更新時間、 lat：經度、 lng：緯度、 ar：地址、 sareaen：場站區域英文名稱、 snaen：場站英文名稱、 aren：英文地址、 nbcnt：擋板數量、 bemp：空位數量、 act：禁用狀態
+ 
+   
+2. (2019-12-19, 參考PPT附件, 程式範例 e8-3-1.py) 
+                抓取台銀外幣現金匯率(賣出), https://rate.bot.com.tw/xrt?Lang=zh-TW
+                a. 輸入csv檔到一個指定的目錄
+                b. 檢查輸出檔是否有異常
+
+3. (2019-12-26, 參考PPT附件, 程式範例 e8-3-2.py) 
+                a. 抓取所有7/11門市資訊，存成excel, http://www.ibon.com.tw/#gsc.tab=0
+                b. 修改範例程式， 自行抓取 cities。 （不使用預設 cities 清單)
+
+4. (2020-01-02) 抓取自由時報首頁滑動視窗中的頭條新聞
+                
+                (a) 排除特定關鍵字 "Taipei Times" 以及 廣告網址 https://cache.ltn.com.tw/
+                
+                (b) 輸出範例： 
+                
+                玉山黃喉貂巧遇龜殼花 下一秒抓來吃
+                https://news.ltn.com.tw/news/life/breakingnews/3001529
+
+                藍委對女警動粗 葉毓蘭反罵網友亂吠
+                https://news.ltn.com.tw/news/politics/breakingnews/3001564
+
+                降血糖藥檢出含致癌物  食藥署下令清查
+                https://news.ltn.com.tw/news/life/breakingnews/3001515
+
+                葉元之退二線？週刊爆王淺秋上陣內幕
+                https://election.ltn.com.tw/2020/news/overview/breakingnews/3001419
+
+                72歲前環球小姐當阿嬤 近照曝光豔驚網友
+                https://news.ltn.com.tw/news/world/breakingnews/3001482
+
+                學姐為領年終請事假？遭批比王淺秋還扯
+                https://election.ltn.com.tw/2020/news/overview/breakingnews/3001463
+
+                剛簽字離婚....梁靜茹首露面氣色佳
+                https://ent.ltn.com.tw/news/breakingnews/3001612
+
+5. (2020-01-09) 第三次上機考

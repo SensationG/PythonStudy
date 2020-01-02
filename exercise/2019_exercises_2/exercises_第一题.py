@@ -17,8 +17,8 @@ stopwords = ["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you",
 def toplen_word(l_word):
     len_dict={} #记录长度   
     for i in l_word: #记录每个单词长度
-        word_len = len(i)
-        len_dict[i]=word_len        
+        len_dict[i] = len(i)  #遇到相同的字母不受影响
+            
     len_dict=sorted(len_dict.items(), key=lambda x: x[1], reverse=True)
     print('字母最長的5個單字：')
     for k,v in len_dict[:5]:
