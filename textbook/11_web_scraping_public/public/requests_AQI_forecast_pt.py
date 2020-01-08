@@ -6,6 +6,8 @@ import requests
 from prettytable import PrettyTable
 # http://zetcode.com/python/prettytable/
 
+#------------------------读取返回的csv档-使用图表输出----------------------
+
 # Read csv
 url = 'https://opendata.epa.gov.tw/ws/Data/AQFN/?$format=csv'
 url = 'https://opendata.epa.gov.tw/api/v1/AQFN?$skip=0&$top=1000&$format=csv'

@@ -3,6 +3,7 @@
 #-----------------JSON与字典互相转换---------------------
 import json
 
+# 模拟json数据
 string_of_json_data = '{"name": "Zophie", "isCat": true, "miceCaught": 0,"felineIQ": null}'
 
 # json.loads(string): 将已编码的 JSON 字符串解码为 Python 对象（字典类型）
@@ -14,6 +15,7 @@ print(jsonObj['name'])
 
 #{'isCat': True, 'miceCaught': 0, 'name': 'Zophie', 'felineIQ': None}
 
+# 模拟字典数据
 jsonObj = {'isCat': True, 'miceCaught': 0, 'name': 'Zophie','felineIQ': None}
 
 # json.dumps(jsonObj): 将 Python 对象（字典类型）编码成 JSON 字符串

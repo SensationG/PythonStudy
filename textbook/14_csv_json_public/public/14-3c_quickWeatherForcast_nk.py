@@ -16,8 +16,11 @@ response = requests.get(url)
 response.raise_for_status()
 
 # Load JSON data into a Python variable.
+
+# 方式1
 #weatherData = json.loads(response.text)
-weatherData = response.json() #读取json档
+# 方式2
+weatherData = response.json() #读取json档 
 #pprint.pprint(weatherData)
 #print(weatherData)
 

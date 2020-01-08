@@ -1,12 +1,13 @@
 # For each single excel file, create one CSV file per sheet. 
 # The filenames of the CSV files should be <excel filename>_<sheet title>.csv,
-#-------------------------excel转csv-------------------------
+#-------------------------读取excel写入到csv---每各工作簿单独生成一个csv文件----------------------------
 import os
 import csv
 import openpyxl
 
 for filename in os.listdir('.'):
-    # Skip non-xlsx files, load the workbook object.
+    
+    #查找是xlsx的excel文件
     if not filename.endswith('.xlsx'):
         continue # skip non-csv files
     
@@ -23,11 +24,12 @@ for filename in os.listdir('.'):
         # Create the csv.writer object for this CSV file.
         csv_fname = fname + '_'  + sh + '.csv' #设定转换后的档名
         print(csv_fname)
+        
         cf = open(csv_fname, 'w', newline='') #新建csv档
-        csv_writer = csv.writer(cf)
+        csv_writer = csv.writer(cf) 
         
         # iter_rows按行遍历excle 写入csv
         for rowdata in sheet.iter_rows(min_row=1, values_only=True):
-            csv_writer.writerow(rowdata)
+            csv_writer.writerow(rowdata) #写入
         
         cf.close()

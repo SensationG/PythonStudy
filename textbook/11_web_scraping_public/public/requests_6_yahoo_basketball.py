@@ -39,7 +39,7 @@ numOpen = min(20, len(linkElems)) #限制20个或者网页最大文章量
 bad_urls = ['http://help.yahoo.com', 'https://info.yahoo.com', 'https://beap.gemini.yahoo.com', 'https://twhbl.yahoo.com.tw']
 #选取内容
 nba_words = ['nba', 'NBA', '勇士', '湖人']
-
+a=0
 for i in range(numOpen):
     title = linkElems[i].getText()
     link = linkElems[i].get('href') # get url from <href> tag
@@ -64,6 +64,7 @@ for i in range(numOpen):
     # /勇士半場變4打5，場均三分外線17中1成進攻漏洞
     elif any(w in link for w in nba_words):
         print(title)
+        a=a+1
         print("處理過link: " + link)
         siteurl = 'https://tw.news.yahoo.com' + link
     else: 
@@ -74,6 +75,6 @@ for i in range(numOpen):
     
     print("處理過link: " + unquote(siteurl))
     print()
-    
+print(a)
     
     

@@ -25,6 +25,7 @@ for country in allCountry:
     file_name = "exercise3-2" + area + ".csv"
     #存储时间记录
     now_time = strftime("%Y-%m-%d %H:%M:%S", localtime())
+    #资料输出文件夹
     if not os.path.exists(os.path.join("money",file_name)):
         data = [['時間', '匯率'], [now_time, cash]]
     else:

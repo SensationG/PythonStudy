@@ -14,7 +14,7 @@ response = requests.get("https://en.wikipedia.org/robots.txt")
 # 返回的网站信息提取text
 txt = response.text
 print(txt)
-
+#r.encoding='utf-8'
 # 返回的数据编码类型
 print(response.encoding)
 

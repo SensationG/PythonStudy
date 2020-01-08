@@ -18,7 +18,7 @@ response = requests.get(url)
 response.raise_for_status()
 
 # response.text：获取返回的信息 ，是json档案 解析json档案为字典
-weatherData = json.loads(response.text) 
+weatherData = json.loads(response.text) #json.loads(type=str)
 #weatherData =  response.json()
 pprint.pprint(weatherData) #不打乱原格式打印
 print(type(weatherData)) #dict类型
@@ -27,6 +27,7 @@ print(type(weatherData)) #dict类型
 desc = weatherData['weather'][0]['description'] #weather中是一个大list
 temp = weatherData['main']['temp']
 date = datetime.datetime.fromtimestamp(weatherData['dt'])#时间格式化
+print(date)
 #date_str = date.strftime('%Y-%m-%d %H:%M:%S')
 date_str = date.strftime('%Y-%m-%d %I:%M %p') # 00:00 AM/PM
 

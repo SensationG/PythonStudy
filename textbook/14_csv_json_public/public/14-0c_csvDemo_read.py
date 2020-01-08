@@ -1,6 +1,7 @@
 import csv
-#-------------------------------读取CSV档案----------------------------
-# Read csv directly 每个栏位用数组保存
+#-------------------------------读取CSV档案，按数组/字符串保存----------------------------
+
+# Read csv directly 每一行用数组保存
 with open('example.csv') as f:
     
     csv_reader = csv.reader(f, delimiter=',')  #读取时的分隔符号

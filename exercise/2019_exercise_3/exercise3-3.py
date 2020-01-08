@@ -19,14 +19,17 @@ print(city1)
 #该网站只能用post方式传入信息查询
 for index,city in enumerate(city1):
     data = {'strTargetField':'COUNTY','strKeyWords':'%s' % city}    
+    # 使用data传入post数据
     res = requests.post('http://www.ibon.com.tw/retail_inquiry_ajax.aspx', data=data)
     if index==0:
-        df_7_11_store = pd.read_html(res.text, header=0)[0]
+        # pd.read_html 快速获取在html中页面中table格式的数据
+        df_7_11_store = pd.read_html(res.text, header=0)[0] #不要header 且为第一个table
         df_7_11_store['縣市'] = city
     if index>0:
+         #目标内容在一个tbody里面 直接用pd.read_html读取
         df_7_11_store_ = pd.read_html(res.text, header=0)[0]
         df_7_11_store_['縣市'] = city
-        #dataframe的append方法 标准做法
+        #dataframe的append方法 标准做法 拼接dataframe
         df_7_11_store = df_7_11_store.append(df_7_11_store_)
    #打印出進度
     print('%2d) %-*s %4d' % (index+1, 5, city, pd.read_html(res.text, header=0)[0].shape[0]))

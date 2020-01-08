@@ -29,16 +29,17 @@ r = requests.get(url, verify=False)
 # r = request.get(url, verify=False, params=AQI_params)
 
 print(r.url)
-print(r.text)
+#print(r.text)
 #内容处理
 if r.status_code != 200: #判断是否成功获得数据
     print('Failed to get data:', r.status_code)
 else:
     cr = csv.reader(r.text.splitlines()) #读取返回的csv档 splitlines按照行('\r', '\r\n', \n')分隔
-    """
-    headers = next(cr)
-    headers = [s.replace("\ufeff", "") for s in headers[0:5]]
-    print(headers)
-    """
+    
+    headers = next(cr) #获得表头
+    # 标题栏有乱码 处理替换
+    headers = [s.replace("\ufeff","") for s in headers[0:5]]
+    print(headers) #打印标题栏
+    
     for row in cr:
         print(row[0:5]) #读取0-4列
